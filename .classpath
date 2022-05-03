@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="mini-projet/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="mini-projet/mysql-connector-java-5.1.44.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ismail Abdelouahab/Documents/all_jars/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="mini-projet/build/classes"/>
+</classpath>
